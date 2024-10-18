@@ -15,7 +15,7 @@ Virtual banking application that allows ybou to deposit, withdraw, and write che
 ## Build project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/Virtual-Bank.git
+   git clone https://github.com/rgalibut/Virtual-Bank.git
    cd Virtual-Bank
 2. Install dependencies
    ```bash
