@@ -218,7 +218,7 @@ int main()
 						cout << endl;
 						cout << "Checking balance: $";
 						checkObj.printBalance();
-						cout << "\n\nPress <Enter to continue...";
+						cout << "\n\nPress <Enter> to continue...";
 						cin.ignore();
 						system("cls");
 						goto checkingMenu;
@@ -380,7 +380,7 @@ int main()
 						cout << endl;
 						cout << "Savings balance: $";
 						savObj.printBalance();
-						cout << "\n\nPress <Enter to continue...";
+						cout << "\n\nPress <Enter> to continue...";
 						cin.ignore();
 						system("cls");
 						goto savingsMenu;
@@ -398,7 +398,7 @@ int main()
 						cout << savObj.getNumChecks();
 						cout << "\nChecks bounced: "; 
 						cout << savObj.getBounced();	
-						cout << "\n\nPress <Enter to continue...";
+						cout << "\n\nPress <Enter> to continue...";
 						cin.ignore();
 						system("cls");
 						goto savingsMenu;
